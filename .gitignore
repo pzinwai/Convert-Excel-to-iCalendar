@@ -1,0 +1,5 @@
+/vendor
+temp/*
+!temp/.gitkeep
+calendars/*
+!calendars/.gitkeep
